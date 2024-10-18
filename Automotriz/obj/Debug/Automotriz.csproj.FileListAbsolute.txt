@@ -1,0 +1,12 @@
+C:\Users\saave\OneDrive\Documentos\Aorus\Automotriz\Automotriz\obj\Debug\Automotriz.csproj.AssemblyReference.cache
+C:\Users\saave\OneDrive\Documentos\Aorus\Automotriz\Automotriz\obj\Debug\Automotriz.AgregarHerramientas.resources
+C:\Users\saave\OneDrive\Documentos\Aorus\Automotriz\Automotriz\obj\Debug\Automotriz.AgregarRefacciones.resources
+C:\Users\saave\OneDrive\Documentos\Aorus\Automotriz\Automotriz\obj\Debug\Automotriz.AgregarUsuarios.resources
+C:\Users\saave\OneDrive\Documentos\Aorus\Automotriz\Automotriz\obj\Debug\Automotriz.BuscarHerramientas.resources
+C:\Users\saave\OneDrive\Documentos\Aorus\Automotriz\Automotriz\obj\Debug\Automotriz.BuscarRefacciones.resources
+C:\Users\saave\OneDrive\Documentos\Aorus\Automotriz\Automotriz\obj\Debug\Automotriz.BuscarUsuarios.resources
+C:\Users\saave\OneDrive\Documentos\Aorus\Automotriz\Automotriz\obj\Debug\Automotriz.Login.resources
+C:\Users\saave\OneDrive\Documentos\Aorus\Automotriz\Automotriz\obj\Debug\Automotriz.Menu.resources
+C:\Users\saave\OneDrive\Documentos\Aorus\Automotriz\Automotriz\obj\Debug\Automotriz.Properties.Resources.resources
+C:\Users\saave\OneDrive\Documentos\Aorus\Automotriz\Automotriz\obj\Debug\Automotriz.csproj.GenerateResource.cache
+C:\Users\saave\OneDrive\Documentos\Aorus\Automotriz\Automotriz\obj\Debug\Automotriz.csproj.CoreCompileInputs.cache
