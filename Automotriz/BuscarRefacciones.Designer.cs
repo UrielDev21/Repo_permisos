@@ -72,6 +72,7 @@
             this.btnCerrar.TabIndex = 1;
             this.btnCerrar.Text = "X";
             this.btnCerrar.UseVisualStyleBackColor = false;
+            this.btnCerrar.Click += new System.EventHandler(this.btnCerrar_Click);
             // 
             // label1
             // 
@@ -88,14 +89,17 @@
             this.txtBuscar.Name = "txtBuscar";
             this.txtBuscar.Size = new System.Drawing.Size(641, 26);
             this.txtBuscar.TabIndex = 3;
+            this.txtBuscar.TextChanged += new System.EventHandler(this.txtBuscar_TextChanged);
             // 
             // dtgvRefacciones
             // 
+            this.dtgvRefacciones.AllowUserToAddRows = false;
             this.dtgvRefacciones.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dtgvRefacciones.Location = new System.Drawing.Point(12, 156);
             this.dtgvRefacciones.Name = "dtgvRefacciones";
             this.dtgvRefacciones.Size = new System.Drawing.Size(691, 469);
             this.dtgvRefacciones.TabIndex = 4;
+            this.dtgvRefacciones.CellEnter += new System.Windows.Forms.DataGridViewCellEventHandler(this.dtgvRefacciones_CellEnter);
             // 
             // btnAgregar
             // 
@@ -105,6 +109,7 @@
             this.btnAgregar.TabIndex = 5;
             this.btnAgregar.Text = "Agregar";
             this.btnAgregar.UseVisualStyleBackColor = true;
+            this.btnAgregar.Click += new System.EventHandler(this.btnAgregar_Click);
             // 
             // btnModificar
             // 
@@ -114,6 +119,7 @@
             this.btnModificar.TabIndex = 6;
             this.btnModificar.Text = "Modificar";
             this.btnModificar.UseVisualStyleBackColor = true;
+            this.btnModificar.Click += new System.EventHandler(this.btnModificar_Click);
             // 
             // btnEliminar
             // 
@@ -123,6 +129,7 @@
             this.btnEliminar.TabIndex = 7;
             this.btnEliminar.Text = "Eliminar";
             this.btnEliminar.UseVisualStyleBackColor = true;
+            this.btnEliminar.Click += new System.EventHandler(this.btnEliminar_Click);
             // 
             // BuscarRefacciones
             // 
