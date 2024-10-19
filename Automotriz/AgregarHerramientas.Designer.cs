@@ -67,6 +67,7 @@
             this.btnCerrar.TabIndex = 14;
             this.btnCerrar.Text = "X";
             this.btnCerrar.UseVisualStyleBackColor = false;
+            this.btnCerrar.Click += new System.EventHandler(this.btnCerrar_Click);
             // 
             // label2
             // 
@@ -102,6 +103,7 @@
             this.btnCancelar.TabIndex = 3;
             this.btnCancelar.Text = "Cancelar";
             this.btnCancelar.UseVisualStyleBackColor = true;
+            this.btnCancelar.Click += new System.EventHandler(this.btnCancelar_Click);
             // 
             // txtNombre
             // 
@@ -176,6 +178,7 @@
             this.btnGuardar.TabIndex = 13;
             this.btnGuardar.Text = "Guardar";
             this.btnGuardar.UseVisualStyleBackColor = true;
+            this.btnGuardar.Click += new System.EventHandler(this.btnGuardar_Click);
             // 
             // AgregarHerramientas
             // 

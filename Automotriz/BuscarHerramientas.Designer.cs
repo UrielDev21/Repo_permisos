@@ -29,12 +29,12 @@
         private void InitializeComponent()
         {
             this.panel1 = new System.Windows.Forms.Panel();
+            this.btnCerrar = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
             this.txtBuscar = new System.Windows.Forms.TextBox();
             this.btnAgregar = new System.Windows.Forms.Button();
             this.dtgvHerramientas = new System.Windows.Forms.DataGridView();
             this.label2 = new System.Windows.Forms.Label();
-            this.btnCerrar = new System.Windows.Forms.Button();
             this.btnEliminar = new System.Windows.Forms.Button();
             this.btnModificar = new System.Windows.Forms.Button();
             this.panel1.SuspendLayout();
@@ -51,6 +51,20 @@
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(1076, 82);
             this.panel1.TabIndex = 0;
+            // 
+            // btnCerrar
+            // 
+            this.btnCerrar.BackColor = System.Drawing.Color.Red;
+            this.btnCerrar.Font = new System.Drawing.Font("Arial Rounded MT Bold", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnCerrar.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.btnCerrar.Location = new System.Drawing.Point(1004, 21);
+            this.btnCerrar.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.btnCerrar.Name = "btnCerrar";
+            this.btnCerrar.Size = new System.Drawing.Size(49, 44);
+            this.btnCerrar.TabIndex = 6;
+            this.btnCerrar.Text = "X";
+            this.btnCerrar.UseVisualStyleBackColor = false;
+            this.btnCerrar.Click += new System.EventHandler(this.btnCerrar_Click);
             // 
             // label1
             // 
@@ -70,6 +84,7 @@
             this.txtBuscar.Name = "txtBuscar";
             this.txtBuscar.Size = new System.Drawing.Size(801, 26);
             this.txtBuscar.TabIndex = 2;
+            this.txtBuscar.TextChanged += new System.EventHandler(this.txtBuscar_TextChanged);
             // 
             // btnAgregar
             // 
@@ -80,15 +95,18 @@
             this.btnAgregar.TabIndex = 3;
             this.btnAgregar.Text = "Agregar";
             this.btnAgregar.UseVisualStyleBackColor = true;
+            this.btnAgregar.Click += new System.EventHandler(this.btnAgregar_Click);
             // 
             // dtgvHerramientas
             // 
+            this.dtgvHerramientas.AllowUserToAddRows = false;
             this.dtgvHerramientas.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dtgvHerramientas.Location = new System.Drawing.Point(13, 158);
             this.dtgvHerramientas.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.dtgvHerramientas.Name = "dtgvHerramientas";
             this.dtgvHerramientas.Size = new System.Drawing.Size(863, 520);
             this.dtgvHerramientas.TabIndex = 4;
+            this.dtgvHerramientas.CellEnter += new System.Windows.Forms.DataGridViewCellEventHandler(this.dtgvHerramientas_CellEnter);
             // 
             // label2
             // 
@@ -100,19 +118,6 @@
             this.label2.TabIndex = 5;
             this.label2.Text = "Buscar:";
             // 
-            // btnCerrar
-            // 
-            this.btnCerrar.BackColor = System.Drawing.Color.Red;
-            this.btnCerrar.Font = new System.Drawing.Font("Arial Rounded MT Bold", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnCerrar.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.btnCerrar.Location = new System.Drawing.Point(1004, 21);
-            this.btnCerrar.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.btnCerrar.Name = "btnCerrar";
-            this.btnCerrar.Size = new System.Drawing.Size(49, 44);
-            this.btnCerrar.TabIndex = 6;
-            this.btnCerrar.Text = "X";
-            this.btnCerrar.UseVisualStyleBackColor = false;
-            // 
             // btnEliminar
             // 
             this.btnEliminar.Location = new System.Drawing.Point(884, 248);
@@ -122,6 +127,7 @@
             this.btnEliminar.TabIndex = 6;
             this.btnEliminar.Text = "Eliminar";
             this.btnEliminar.UseVisualStyleBackColor = true;
+            this.btnEliminar.Click += new System.EventHandler(this.btnEliminar_Click);
             // 
             // btnModificar
             // 
@@ -132,6 +138,7 @@
             this.btnModificar.TabIndex = 7;
             this.btnModificar.Text = "Modificar";
             this.btnModificar.UseVisualStyleBackColor = true;
+            this.btnModificar.Click += new System.EventHandler(this.btnModificar_Click);
             // 
             // BuscarHerramientas
             // 

@@ -142,5 +142,15 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Entidades\Entidades.csproj">
+      <Project>{a3f33a03-4827-413f-8e7d-821a83d8e039}</Project>
+      <Name>Entidades</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Manejador\Manejador.csproj">
+      <Project>{bd1cf128-327f-48d1-bd8a-bac01d7124e4}</Project>
+      <Name>Manejador</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
