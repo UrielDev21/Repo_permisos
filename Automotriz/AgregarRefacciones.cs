@@ -29,7 +29,7 @@ namespace Automotriz
 
         private void btnGuardar_Click(object sender, EventArgs e)
         {
-            if(BuscarRefacciones.codigoBarras != null && BuscarRefacciones.codigoBarras.Length > 0)
+            if(!string.IsNullOrEmpty(BuscarRefacciones.codigoBarras))
             {
                 mr.ModificarRefacciones(txtCodigoBarras, txtNombre, txtDescripcion, txtMarca);
                 MessageBox.Show("El registro se ha modificado correctamente", "ATENCIÓN!!!!", MessageBoxButtons.OK, MessageBoxIcon.Information);
@@ -38,21 +38,12 @@ namespace Automotriz
             {
                 mr.GuardarRefacciones(txtCodigoBarras, txtNombre, txtDescripcion, txtMarca);
                 MessageBox.Show("El registro se ha guardado correctamente", "ATENCIÓN!!!!", MessageBoxButtons.OK, MessageBoxIcon.Information);
-            }
-
-            LimpiarFormulario();  
+            } 
             Close(); 
         }
         private void btnCancelar_Click(object sender, EventArgs e)
         {
             Close(); 
-        }
-        private void LimpiarFormulario()
-        {
-            BuscarRefacciones.codigoBarras = null; 
-            BuscarRefacciones.nombre = null; ; 
-            BuscarRefacciones.descripcion = null;
-            BuscarRefacciones.marca = null;
         }
     }
 }

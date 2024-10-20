@@ -16,7 +16,7 @@ namespace Automotriz
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new BuscarHerramientas());
+            Application.Run(new Login());
         }
     }
 }

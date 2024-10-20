@@ -23,7 +23,7 @@ namespace Manejador
         // Metodo para modificar las herramientas en la tabla de taller
         public void ModificarHerramienta(TextBox CodigoHerramienta, TextBox Nombre, TextBox Medida, TextBox Marca, TextBox Descripcion)
         {
-            MessageBox.Show(f.Modificar($" call p_modificar_herramienta('{CodigoHerramienta.Text}', '{Nombre.Text}', '{Medida.Text}', '{Marca.Text}', '{Descripcion.Text}')"),
+            MessageBox.Show(f.Modificar($"call p_modificar_herramienta('{CodigoHerramienta.Text}', '{Nombre.Text}', '{Medida.Text}', '{Marca.Text}', '{Descripcion.Text}')"),
                 "ATENCIÓN!!!!", MessageBoxButtons.OK, MessageBoxIcon.Information); 
         }
 

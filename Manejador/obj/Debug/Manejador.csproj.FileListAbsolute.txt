@@ -35,3 +35,5 @@ C:\Users\saave\OneDrive\Documentos\Aorus\Automotriz\Manejador\obj\Debug\Manejado
 C:\Users\saave\OneDrive\Documentos\Aorus\Automotriz\Manejador\obj\Debug\Manejador.csproj.Up2Date
 C:\Users\saave\OneDrive\Documentos\Aorus\Automotriz\Manejador\obj\Debug\Manejador.dll
 C:\Users\saave\OneDrive\Documentos\Aorus\Automotriz\Manejador\obj\Debug\Manejador.pdb
+C:\Users\saave\OneDrive\Documentos\Aorus\Automotriz\Manejador\bin\Debug\Entidades.dll
+C:\Users\saave\OneDrive\Documentos\Aorus\Automotriz\Manejador\bin\Debug\Entidades.pdb

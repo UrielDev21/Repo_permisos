@@ -24,6 +24,7 @@ namespace Automotriz
         {
             InitializeComponent();
             mr = new ManejadorRefacciones();
+            Verificar(); 
         }
 
         private void dtgvRefacciones_CellEnter(object sender, DataGridViewCellEventArgs e)

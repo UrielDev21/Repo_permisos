@@ -48,7 +48,8 @@
             // 
             // panel1
             // 
-            this.panel1.BackColor = System.Drawing.SystemColors.AppWorkspace;
+            this.panel1.BackColor = System.Drawing.Color.LightSlateGray;
+            this.panel1.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
             this.panel1.Controls.Add(this.btnCerrar);
             this.panel1.Controls.Add(this.label2);
             this.panel1.Location = new System.Drawing.Point(-7, -1);
@@ -59,9 +60,10 @@
             // btnCerrar
             // 
             this.btnCerrar.BackColor = System.Drawing.Color.Red;
+            this.btnCerrar.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnCerrar.Font = new System.Drawing.Font("Arial Rounded MT Bold", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnCerrar.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.btnCerrar.Location = new System.Drawing.Point(526, 18);
+            this.btnCerrar.Location = new System.Drawing.Point(477, 11);
             this.btnCerrar.Name = "btnCerrar";
             this.btnCerrar.Size = new System.Drawing.Size(43, 41);
             this.btnCerrar.TabIndex = 14;
@@ -82,7 +84,7 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(13, 114);
+            this.label1.Location = new System.Drawing.Point(8, 94);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(130, 20);
             this.label1.TabIndex = 1;
@@ -90,14 +92,19 @@
             // 
             // txtCodigoHerramienta
             // 
-            this.txtCodigoHerramienta.Location = new System.Drawing.Point(17, 137);
+            this.txtCodigoHerramienta.BackColor = System.Drawing.Color.LightSlateGray;
+            this.txtCodigoHerramienta.ForeColor = System.Drawing.SystemColors.Window;
+            this.txtCodigoHerramienta.Location = new System.Drawing.Point(12, 117);
             this.txtCodigoHerramienta.Name = "txtCodigoHerramienta";
             this.txtCodigoHerramienta.Size = new System.Drawing.Size(379, 26);
             this.txtCodigoHerramienta.TabIndex = 2;
             // 
             // btnCancelar
             // 
-            this.btnCancelar.Location = new System.Drawing.Point(306, 575);
+            this.btnCancelar.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.btnCancelar.Font = new System.Drawing.Font("Arial Rounded MT Bold", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnCancelar.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
+            this.btnCancelar.Location = new System.Drawing.Point(265, 463);
             this.btnCancelar.Name = "btnCancelar";
             this.btnCancelar.Size = new System.Drawing.Size(125, 40);
             this.btnCancelar.TabIndex = 3;
@@ -107,7 +114,9 @@
             // 
             // txtNombre
             // 
-            this.txtNombre.Location = new System.Drawing.Point(17, 205);
+            this.txtNombre.BackColor = System.Drawing.Color.LightSlateGray;
+            this.txtNombre.ForeColor = System.Drawing.SystemColors.Window;
+            this.txtNombre.Location = new System.Drawing.Point(12, 169);
             this.txtNombre.Name = "txtNombre";
             this.txtNombre.Size = new System.Drawing.Size(379, 26);
             this.txtNombre.TabIndex = 6;
@@ -115,7 +124,7 @@
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(13, 182);
+            this.label4.Location = new System.Drawing.Point(9, 146);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(61, 20);
             this.label4.TabIndex = 5;
@@ -123,7 +132,9 @@
             // 
             // txtMedida
             // 
-            this.txtMedida.Location = new System.Drawing.Point(12, 276);
+            this.txtMedida.BackColor = System.Drawing.Color.LightSlateGray;
+            this.txtMedida.ForeColor = System.Drawing.SystemColors.Window;
+            this.txtMedida.Location = new System.Drawing.Point(12, 221);
             this.txtMedida.Name = "txtMedida";
             this.txtMedida.Size = new System.Drawing.Size(379, 26);
             this.txtMedida.TabIndex = 8;
@@ -131,7 +142,7 @@
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(13, 244);
+            this.label5.Location = new System.Drawing.Point(12, 198);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(58, 20);
             this.label5.TabIndex = 7;
@@ -139,7 +150,9 @@
             // 
             // txtMarca
             // 
-            this.txtMarca.Location = new System.Drawing.Point(17, 343);
+            this.txtMarca.BackColor = System.Drawing.Color.LightSlateGray;
+            this.txtMarca.ForeColor = System.Drawing.SystemColors.Window;
+            this.txtMarca.Location = new System.Drawing.Point(12, 273);
             this.txtMarca.Name = "txtMarca";
             this.txtMarca.Size = new System.Drawing.Size(379, 26);
             this.txtMarca.TabIndex = 10;
@@ -147,7 +160,7 @@
             // label6
             // 
             this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(13, 320);
+            this.label6.Location = new System.Drawing.Point(12, 250);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(49, 20);
             this.label6.TabIndex = 9;
@@ -155,7 +168,9 @@
             // 
             // txtDescripcion
             // 
-            this.txtDescripcion.Location = new System.Drawing.Point(17, 402);
+            this.txtDescripcion.BackColor = System.Drawing.Color.LightSlateGray;
+            this.txtDescripcion.ForeColor = System.Drawing.SystemColors.Window;
+            this.txtDescripcion.Location = new System.Drawing.Point(12, 330);
             this.txtDescripcion.Multiline = true;
             this.txtDescripcion.Name = "txtDescripcion";
             this.txtDescripcion.Size = new System.Drawing.Size(379, 103);
@@ -164,7 +179,7 @@
             // label7
             // 
             this.label7.AutoSize = true;
-            this.label7.Location = new System.Drawing.Point(13, 379);
+            this.label7.Location = new System.Drawing.Point(8, 307);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(84, 20);
             this.label7.TabIndex = 11;
@@ -172,7 +187,10 @@
             // 
             // btnGuardar
             // 
-            this.btnGuardar.Location = new System.Drawing.Point(437, 575);
+            this.btnGuardar.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.btnGuardar.Font = new System.Drawing.Font("Arial Rounded MT Bold", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnGuardar.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(0)))));
+            this.btnGuardar.Location = new System.Drawing.Point(396, 463);
             this.btnGuardar.Name = "btnGuardar";
             this.btnGuardar.Size = new System.Drawing.Size(125, 40);
             this.btnGuardar.TabIndex = 13;
@@ -184,7 +202,8 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(574, 627);
+            this.BackColor = System.Drawing.Color.LightSlateGray;
+            this.ClientSize = new System.Drawing.Size(527, 515);
             this.Controls.Add(this.btnGuardar);
             this.Controls.Add(this.txtDescripcion);
             this.Controls.Add(this.label7);
@@ -199,6 +218,7 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.panel1);
             this.Font = new System.Drawing.Font("Arial Narrow", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.Name = "AgregarHerramientas";

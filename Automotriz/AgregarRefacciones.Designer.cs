@@ -45,7 +45,8 @@
             // 
             // panel1
             // 
-            this.panel1.BackColor = System.Drawing.SystemColors.AppWorkspace;
+            this.panel1.BackColor = System.Drawing.Color.LightSlateGray;
+            this.panel1.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
             this.panel1.Controls.Add(this.label1);
             this.panel1.Location = new System.Drawing.Point(-5, -3);
             this.panel1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
@@ -66,6 +67,9 @@
             // 
             // btnGuardar
             // 
+            this.btnGuardar.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.btnGuardar.Font = new System.Drawing.Font("Arial Rounded MT Bold", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnGuardar.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(0)))));
             this.btnGuardar.Location = new System.Drawing.Point(392, 472);
             this.btnGuardar.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btnGuardar.Name = "btnGuardar";
@@ -77,6 +81,8 @@
             // 
             // txtCodigoBarras
             // 
+            this.txtCodigoBarras.BackColor = System.Drawing.Color.LightSlateGray;
+            this.txtCodigoBarras.ForeColor = System.Drawing.Color.White;
             this.txtCodigoBarras.Location = new System.Drawing.Point(17, 131);
             this.txtCodigoBarras.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.txtCodigoBarras.Name = "txtCodigoBarras";
@@ -105,6 +111,8 @@
             // 
             // txtNombre
             // 
+            this.txtNombre.BackColor = System.Drawing.Color.LightSlateGray;
+            this.txtNombre.ForeColor = System.Drawing.Color.White;
             this.txtNombre.Location = new System.Drawing.Point(18, 197);
             this.txtNombre.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.txtNombre.Name = "txtNombre";
@@ -123,6 +131,8 @@
             // 
             // txtDescripcion
             // 
+            this.txtDescripcion.BackColor = System.Drawing.Color.LightSlateGray;
+            this.txtDescripcion.ForeColor = System.Drawing.Color.White;
             this.txtDescripcion.Location = new System.Drawing.Point(17, 257);
             this.txtDescripcion.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.txtDescripcion.Multiline = true;
@@ -142,6 +152,8 @@
             // 
             // txtMarca
             // 
+            this.txtMarca.BackColor = System.Drawing.Color.LightSlateGray;
+            this.txtMarca.ForeColor = System.Drawing.Color.White;
             this.txtMarca.Location = new System.Drawing.Point(18, 410);
             this.txtMarca.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.txtMarca.Name = "txtMarca";
@@ -150,6 +162,9 @@
             // 
             // btnCancelar
             // 
+            this.btnCancelar.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.btnCancelar.Font = new System.Drawing.Font("Arial Rounded MT Bold", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnCancelar.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
             this.btnCancelar.Location = new System.Drawing.Point(269, 472);
             this.btnCancelar.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btnCancelar.Name = "btnCancelar";
@@ -163,6 +178,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.LightSlateGray;
             this.ClientSize = new System.Drawing.Size(520, 534);
             this.Controls.Add(this.btnCancelar);
             this.Controls.Add(this.label5);
@@ -176,6 +192,7 @@
             this.Controls.Add(this.btnGuardar);
             this.Controls.Add(this.panel1);
             this.Font = new System.Drawing.Font("Arial Narrow", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.ForeColor = System.Drawing.SystemColors.ControlLightLight;
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.Name = "AgregarRefacciones";

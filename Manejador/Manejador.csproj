@@ -42,14 +42,20 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ManejadorLogin.cs" />
     <Compile Include="ManejadorRefacciones.cs" />
     <Compile Include="ManejadorTaller.cs" />
+    <Compile Include="ManejadorUsuarios.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Acceso_datos\Acceso_datos.csproj">
       <Project>{23a81a9f-4ee6-40ea-9a81-56b62f3bb9c4}</Project>
       <Name>Acceso_datos</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Entidades\Entidades.csproj">
+      <Project>{a3f33a03-4827-413f-8e7d-821a83d8e039}</Project>
+      <Name>Entidades</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

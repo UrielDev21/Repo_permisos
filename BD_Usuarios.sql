@@ -65,7 +65,7 @@ begin
 end;
 
 -- Prueba de funcionamiento --
-call p_insertar_usuarios('Juan', 'Perez', 'Prado', '2000-01-01', 'DAOYUIR121341', 'Juan11', sha1('1234')); 
+call p_insertar_usuarios('Juan', 'Perez', 'Prado', '2000-01-01', 'DAOYUIR121341', 'juan17', sha1('1234')); 
 select * from usuarios; 
 
 SHOW PROCEDURE STATUS WHERE Name = 'p_insertar_usuarios';
@@ -89,9 +89,12 @@ begin
 end;  
 
 -- Prueba de funcionamiento --
-call p_modificar_usuarios('Juan', 'Perez', 'Hernandez', '2000-01-01', 'DAOYUIR121341', 'Juan11', sha1('1234')); 
+call p_modificar_usuarios('Juan', 'Perez', 'Hernandez', '2000-01-01', 'DAOYUIR121341', 'juan16', sha1('1234')); 
 
 select * from usuarios; 
+
+DELETE from permisos; 
+delete from usuarios; 
 
 -- Procedimiento almacenado para eliminar usuarios --
 DROP procedure if exists p_eliminar_usuarios; 
@@ -126,7 +129,8 @@ end;
 
 -- Prueba de funcionamiento --
 
-call p_insertar_permiso('juan11', 'FrmAgregarRefacciones', 1, 1, 0, 0);
+call p_insertar_permiso('juan15', 'Refacciones', 1, 1, 0, 0);
+call p_insertar_permiso('juan17', 'Taller', 1, 0, 1, 1); 
 
 selecT * from permisos; 
 
@@ -141,7 +145,9 @@ BEGIN
     where fk_username = _fk_username;
 end;
 
-call p_eliminar_permisos('juan11');
+call p_eliminar_permisos('juan17');
+
+select * from permisos; 
 
 
 -- Procedimiento almacenado para insertar en la tabla de refacciones --
@@ -247,7 +253,7 @@ call p_modificar_refacciones('6546846854657', 'Empaque de culata', 'Empaque de c
 CALL p_eliminar_refacciones('6546846854657');
 SELECT * FROM refacciones;
 -------------------------------------------------------------------------------------------------
-call p_insertar_herramienta('SSAHDFLJ1', 'Llave', '1/2', 'CRAFTMAN', 'Llave de buena calidad');
+call p_insertar_herramienta('QWERQWERE', 'Llave', '1/2', 'CRAFTMAN', 'Llave de buena calidad');
 call p_modificar_herramienta('SSAHDFLJ1', 'Perica', '2 pulgadas', 'TRUPER', 'Perica marca truper');
 
 call p_eliminar_herramienta('SSAHDFLJ1');
@@ -286,8 +292,24 @@ BEGIN
 END;
 
 -- Prueba de funcionamiento --
-call p_validar('Juan11', sha1('1234')); 
+call p_validar('juan11', sha1('1234')); 
 
 SELECT * from usuarios; 
 
 describe permisos; 
+
+select * from usuarios where nombre like '{filtro}'
+select * from permisos where fk_username = 'juan17'; 
+
+drop procedure if exists p_Obtener; 
+create procedure p_Obtener
+(
+    in _user varchar(255)
+)
+begin 
+    SELECT p.nombre_formulario, p.Lectura, p.Escritura, p.Actualizacion, p.Eliminacion
+    from permisos p
+    where p.fk_username = _user;
+end;  
+
+call p_Obtener('superus'); 

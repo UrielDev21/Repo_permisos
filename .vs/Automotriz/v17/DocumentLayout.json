@@ -3,84 +3,108 @@
   "WorkspaceRootPath": "C:\\Users\\saave\\OneDrive\\Documentos\\Aorus\\Automotriz\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FCADAEFD-89D8-48A3-A9A1-15CC2E91E0CE}|Automotriz\\Automotriz.csproj|C:\\Users\\saave\\OneDrive\\Documentos\\Aorus\\Automotriz\\automotriz\\buscarusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{FCADAEFD-89D8-48A3-A9A1-15CC2E91E0CE}|Automotriz\\Automotriz.csproj|solutionrelative:automotriz\\buscarusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCADAEFD-89D8-48A3-A9A1-15CC2E91E0CE}|Automotriz\\Automotriz.csproj|C:\\Users\\saave\\OneDrive\\Documentos\\Aorus\\Automotriz\\automotriz\\buscarrefacciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{FCADAEFD-89D8-48A3-A9A1-15CC2E91E0CE}|Automotriz\\Automotriz.csproj|solutionrelative:automotriz\\buscarrefacciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCADAEFD-89D8-48A3-A9A1-15CC2E91E0CE}|Automotriz\\Automotriz.csproj|c:\\users\\saave\\onedrive\\documentos\\aorus\\automotriz\\automotriz\\buscarherramientas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCADAEFD-89D8-48A3-A9A1-15CC2E91E0CE}|Automotriz\\Automotriz.csproj|solutionrelative:automotriz\\buscarherramientas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCADAEFD-89D8-48A3-A9A1-15CC2E91E0CE}|Automotriz\\Automotriz.csproj|C:\\Users\\saave\\OneDrive\\Documentos\\Aorus\\Automotriz\\automotriz\\buscarherramientas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{FCADAEFD-89D8-48A3-A9A1-15CC2E91E0CE}|Automotriz\\Automotriz.csproj|solutionrelative:automotriz\\buscarherramientas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BD1CF128-327F-48D1-BD8A-BAC01D7124E4}|Manejador\\Manejador.csproj|C:\\Users\\saave\\OneDrive\\Documentos\\Aorus\\Automotriz\\manejador\\manejadortaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BD1CF128-327F-48D1-BD8A-BAC01D7124E4}|Manejador\\Manejador.csproj|solutionrelative:manejador\\manejadortaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BD1CF128-327F-48D1-BD8A-BAC01D7124E4}|Manejador\\Manejador.csproj|c:\\users\\saave\\onedrive\\documentos\\aorus\\automotriz\\manejador\\manejadorrefacciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BD1CF128-327F-48D1-BD8A-BAC01D7124E4}|Manejador\\Manejador.csproj|c:\\users\\saave\\onedrive\\documentos\\aorus\\automotriz\\manejador\\manejadorusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD1CF128-327F-48D1-BD8A-BAC01D7124E4}|Manejador\\Manejador.csproj|solutionrelative:manejador\\manejadorusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD1CF128-327F-48D1-BD8A-BAC01D7124E4}|Manejador\\Manejador.csproj|c:\\users\\saave\\onedrive\\documentos\\aorus\\automotriz\\manejador\\manejadorlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD1CF128-327F-48D1-BD8A-BAC01D7124E4}|Manejador\\Manejador.csproj|solutionrelative:manejador\\manejadorlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD1CF128-327F-48D1-BD8A-BAC01D7124E4}|Manejador\\Manejador.csproj|C:\\Users\\saave\\OneDrive\\Documentos\\Aorus\\Automotriz\\manejador\\manejadorrefacciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BD1CF128-327F-48D1-BD8A-BAC01D7124E4}|Manejador\\Manejador.csproj|solutionrelative:manejador\\manejadorrefacciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCADAEFD-89D8-48A3-A9A1-15CC2E91E0CE}|Automotriz\\Automotriz.csproj|C:\\Users\\saave\\OneDrive\\Documentos\\Aorus\\Automotriz\\automotriz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCADAEFD-89D8-48A3-A9A1-15CC2E91E0CE}|Automotriz\\Automotriz.csproj|solutionrelative:automotriz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCADAEFD-89D8-48A3-A9A1-15CC2E91E0CE}|Automotriz\\Automotriz.csproj|c:\\users\\saave\\onedrive\\documentos\\aorus\\automotriz\\automotriz\\buscarrefacciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCADAEFD-89D8-48A3-A9A1-15CC2E91E0CE}|Automotriz\\Automotriz.csproj|solutionrelative:automotriz\\buscarrefacciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCADAEFD-89D8-48A3-A9A1-15CC2E91E0CE}|Automotriz\\Automotriz.csproj|C:\\Users\\saave\\OneDrive\\Documentos\\Aorus\\Automotriz\\automotriz\\agregarrefacciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{FCADAEFD-89D8-48A3-A9A1-15CC2E91E0CE}|Automotriz\\Automotriz.csproj|solutionrelative:automotriz\\agregarrefacciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCADAEFD-89D8-48A3-A9A1-15CC2E91E0CE}|Automotriz\\Automotriz.csproj|C:\\Users\\saave\\OneDrive\\Documentos\\Aorus\\Automotriz\\automotriz\\agregarrefacciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCADAEFD-89D8-48A3-A9A1-15CC2E91E0CE}|Automotriz\\Automotriz.csproj|solutionrelative:automotriz\\agregarrefacciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCADAEFD-89D8-48A3-A9A1-15CC2E91E0CE}|Automotriz\\Automotriz.csproj|C:\\Users\\saave\\OneDrive\\Documentos\\Aorus\\Automotriz\\automotriz\\agregarherramientas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{FCADAEFD-89D8-48A3-A9A1-15CC2E91E0CE}|Automotriz\\Automotriz.csproj|solutionrelative:automotriz\\agregarherramientas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCADAEFD-89D8-48A3-A9A1-15CC2E91E0CE}|Automotriz\\Automotriz.csproj|C:\\Users\\saave\\OneDrive\\Documentos\\Aorus\\Automotriz\\automotriz\\agregarherramientas.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCADAEFD-89D8-48A3-A9A1-15CC2E91E0CE}|Automotriz\\Automotriz.csproj|solutionrelative:automotriz\\agregarherramientas.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCADAEFD-89D8-48A3-A9A1-15CC2E91E0CE}|Automotriz\\Automotriz.csproj|C:\\Users\\saave\\OneDrive\\Documentos\\Aorus\\Automotriz\\automotriz\\agregarusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{FCADAEFD-89D8-48A3-A9A1-15CC2E91E0CE}|Automotriz\\Automotriz.csproj|solutionrelative:automotriz\\agregarusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCADAEFD-89D8-48A3-A9A1-15CC2E91E0CE}|Automotriz\\Automotriz.csproj|C:\\Users\\saave\\OneDrive\\Documentos\\Aorus\\Automotriz\\automotriz\\buscarherramientas.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCADAEFD-89D8-48A3-A9A1-15CC2E91E0CE}|Automotriz\\Automotriz.csproj|solutionrelative:automotriz\\buscarherramientas.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3F33A03-4827-413F-8E7D-821A83D8E039}|Entidades\\Entidades.csproj|C:\\Users\\saave\\OneDrive\\Documentos\\Aorus\\Automotriz\\entidades\\permisos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3F33A03-4827-413F-8E7D-821A83D8E039}|Entidades\\Entidades.csproj|solutionrelative:entidades\\permisos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{23A81A9F-4EE6-40EA-9A81-56B62F3BB9C4}|Acceso_datos\\Acceso_datos.csproj|C:\\Users\\saave\\OneDrive\\Documentos\\Aorus\\Automotriz\\acceso_datos\\funciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{23A81A9F-4EE6-40EA-9A81-56B62F3BB9C4}|Acceso_datos\\Acceso_datos.csproj|solutionrelative:acceso_datos\\funciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCADAEFD-89D8-48A3-A9A1-15CC2E91E0CE}|Automotriz\\Automotriz.csproj|C:\\Users\\saave\\OneDrive\\Documentos\\Aorus\\Automotriz\\automotriz\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{FCADAEFD-89D8-48A3-A9A1-15CC2E91E0CE}|Automotriz\\Automotriz.csproj|solutionrelative:automotriz\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FCADAEFD-89D8-48A3-A9A1-15CC2E91E0CE}|Automotriz\\Automotriz.csproj|C:\\Users\\saave\\OneDrive\\Documentos\\Aorus\\Automotriz\\automotriz\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{FCADAEFD-89D8-48A3-A9A1-15CC2E91E0CE}|Automotriz\\Automotriz.csproj|solutionrelative:automotriz\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCADAEFD-89D8-48A3-A9A1-15CC2E91E0CE}|Automotriz\\Automotriz.csproj|C:\\Users\\saave\\OneDrive\\Documentos\\Aorus\\Automotriz\\automotriz\\buscarrefacciones.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCADAEFD-89D8-48A3-A9A1-15CC2E91E0CE}|Automotriz\\Automotriz.csproj|solutionrelative:automotriz\\buscarrefacciones.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FCADAEFD-89D8-48A3-A9A1-15CC2E91E0CE}|Automotriz\\Automotriz.csproj|C:\\Users\\saave\\OneDrive\\Documentos\\Aorus\\Automotriz\\automotriz\\buscarherramientas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FCADAEFD-89D8-48A3-A9A1-15CC2E91E0CE}|Automotriz\\Automotriz.csproj|solutionrelative:automotriz\\buscarherramientas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCADAEFD-89D8-48A3-A9A1-15CC2E91E0CE}|Automotriz\\Automotriz.csproj|C:\\Users\\saave\\OneDrive\\Documentos\\Aorus\\Automotriz\\automotriz\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FCADAEFD-89D8-48A3-A9A1-15CC2E91E0CE}|Automotriz\\Automotriz.csproj|C:\\Users\\saave\\OneDrive\\Documentos\\Aorus\\Automotriz\\automotriz\\buscarrefacciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FCADAEFD-89D8-48A3-A9A1-15CC2E91E0CE}|Automotriz\\Automotriz.csproj|solutionrelative:automotriz\\buscarrefacciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCADAEFD-89D8-48A3-A9A1-15CC2E91E0CE}|Automotriz\\Automotriz.csproj|C:\\Users\\saave\\OneDrive\\Documentos\\Aorus\\Automotriz\\automotriz\\buscarusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FCADAEFD-89D8-48A3-A9A1-15CC2E91E0CE}|Automotriz\\Automotriz.csproj|solutionrelative:automotriz\\buscarusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCADAEFD-89D8-48A3-A9A1-15CC2E91E0CE}|Automotriz\\Automotriz.csproj|C:\\Users\\saave\\OneDrive\\Documentos\\Aorus\\Automotriz\\automotriz\\agregarusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FCADAEFD-89D8-48A3-A9A1-15CC2E91E0CE}|Automotriz\\Automotriz.csproj|solutionrelative:automotriz\\agregarusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCADAEFD-89D8-48A3-A9A1-15CC2E91E0CE}|Automotriz\\Automotriz.csproj|C:\\Users\\saave\\OneDrive\\Documentos\\Aorus\\Automotriz\\automotriz\\agregarrefacciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FCADAEFD-89D8-48A3-A9A1-15CC2E91E0CE}|Automotriz\\Automotriz.csproj|solutionrelative:automotriz\\agregarrefacciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCADAEFD-89D8-48A3-A9A1-15CC2E91E0CE}|Automotriz\\Automotriz.csproj|C:\\Users\\saave\\OneDrive\\Documentos\\Aorus\\Automotriz\\automotriz\\agregarherramientas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FCADAEFD-89D8-48A3-A9A1-15CC2E91E0CE}|Automotriz\\Automotriz.csproj|solutionrelative:automotriz\\agregarherramientas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCADAEFD-89D8-48A3-A9A1-15CC2E91E0CE}|Automotriz\\Automotriz.csproj|c:\\users\\saave\\onedrive\\documentos\\aorus\\automotriz\\automotriz\\buscarusuarios.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCADAEFD-89D8-48A3-A9A1-15CC2E91E0CE}|Automotriz\\Automotriz.csproj|solutionrelative:automotriz\\buscarusuarios.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCADAEFD-89D8-48A3-A9A1-15CC2E91E0CE}|Automotriz\\Automotriz.csproj|c:\\users\\saave\\onedrive\\documentos\\aorus\\automotriz\\automotriz\\buscarusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCADAEFD-89D8-48A3-A9A1-15CC2E91E0CE}|Automotriz\\Automotriz.csproj|solutionrelative:automotriz\\buscarusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCADAEFD-89D8-48A3-A9A1-15CC2E91E0CE}|Automotriz\\Automotriz.csproj|C:\\Users\\saave\\OneDrive\\Documentos\\Aorus\\Automotriz\\automotriz\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FCADAEFD-89D8-48A3-A9A1-15CC2E91E0CE}|Automotriz\\Automotriz.csproj|solutionrelative:automotriz\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCADAEFD-89D8-48A3-A9A1-15CC2E91E0CE}|Automotriz\\Automotriz.csproj|c:\\users\\saave\\onedrive\\documentos\\aorus\\automotriz\\automotriz\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCADAEFD-89D8-48A3-A9A1-15CC2E91E0CE}|Automotriz\\Automotriz.csproj|solutionrelative:automotriz\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCADAEFD-89D8-48A3-A9A1-15CC2E91E0CE}|Automotriz\\Automotriz.csproj|c:\\users\\saave\\onedrive\\documentos\\aorus\\automotriz\\automotriz\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCADAEFD-89D8-48A3-A9A1-15CC2E91E0CE}|Automotriz\\Automotriz.csproj|solutionrelative:automotriz\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCADAEFD-89D8-48A3-A9A1-15CC2E91E0CE}|Automotriz\\Automotriz.csproj|C:\\Users\\saave\\OneDrive\\Documentos\\Aorus\\Automotriz\\automotriz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCADAEFD-89D8-48A3-A9A1-15CC2E91E0CE}|Automotriz\\Automotriz.csproj|solutionrelative:automotriz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCADAEFD-89D8-48A3-A9A1-15CC2E91E0CE}|Automotriz\\Automotriz.csproj|C:\\Users\\saave\\OneDrive\\Documentos\\Aorus\\Automotriz\\automotriz\\buscarherramientas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCADAEFD-89D8-48A3-A9A1-15CC2E91E0CE}|Automotriz\\Automotriz.csproj|solutionrelative:automotriz\\buscarherramientas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCADAEFD-89D8-48A3-A9A1-15CC2E91E0CE}|Automotriz\\Automotriz.csproj|C:\\Users\\saave\\OneDrive\\Documentos\\Aorus\\Automotriz\\automotriz\\buscarrefacciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCADAEFD-89D8-48A3-A9A1-15CC2E91E0CE}|Automotriz\\Automotriz.csproj|solutionrelative:automotriz\\buscarrefacciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCADAEFD-89D8-48A3-A9A1-15CC2E91E0CE}|Automotriz\\Automotriz.csproj|c:\\users\\saave\\onedrive\\documentos\\aorus\\automotriz\\automotriz\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FCADAEFD-89D8-48A3-A9A1-15CC2E91E0CE}|Automotriz\\Automotriz.csproj|solutionrelative:automotriz\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCADAEFD-89D8-48A3-A9A1-15CC2E91E0CE}|Automotriz\\Automotriz.csproj|c:\\users\\saave\\onedrive\\documentos\\aorus\\automotriz\\automotriz\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FCADAEFD-89D8-48A3-A9A1-15CC2E91E0CE}|Automotriz\\Automotriz.csproj|solutionrelative:automotriz\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3F33A03-4827-413F-8E7D-821A83D8E039}|Entidades\\Entidades.csproj|C:\\Users\\saave\\OneDrive\\Documentos\\Aorus\\Automotriz\\entidades\\permisos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3F33A03-4827-413F-8E7D-821A83D8E039}|Entidades\\Entidades.csproj|solutionrelative:entidades\\permisos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCADAEFD-89D8-48A3-A9A1-15CC2E91E0CE}|Automotriz\\Automotriz.csproj|C:\\Users\\saave\\OneDrive\\Documentos\\Aorus\\Automotriz\\automotriz\\agregarherramientas.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCADAEFD-89D8-48A3-A9A1-15CC2E91E0CE}|Automotriz\\Automotriz.csproj|solutionrelative:automotriz\\agregarherramientas.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCADAEFD-89D8-48A3-A9A1-15CC2E91E0CE}|Automotriz\\Automotriz.csproj|C:\\Users\\saave\\OneDrive\\Documentos\\Aorus\\Automotriz\\automotriz\\buscarherramientas.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCADAEFD-89D8-48A3-A9A1-15CC2E91E0CE}|Automotriz\\Automotriz.csproj|solutionrelative:automotriz\\buscarherramientas.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A81A9F-4EE6-40EA-9A81-56B62F3BB9C4}|Acceso_datos\\Acceso_datos.csproj|C:\\Users\\saave\\OneDrive\\Documentos\\Aorus\\Automotriz\\acceso_datos\\funciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A81A9F-4EE6-40EA-9A81-56B62F3BB9C4}|Acceso_datos\\Acceso_datos.csproj|solutionrelative:acceso_datos\\funciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCADAEFD-89D8-48A3-A9A1-15CC2E91E0CE}|Automotriz\\Automotriz.csproj|C:\\Users\\saave\\OneDrive\\Documentos\\Aorus\\Automotriz\\automotriz\\buscarrefacciones.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCADAEFD-89D8-48A3-A9A1-15CC2E91E0CE}|Automotriz\\Automotriz.csproj|solutionrelative:automotriz\\buscarrefacciones.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -90,7 +114,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 19,
+          "SelectedChildIndex": 16,
           "Children": [
             {
               "$type": "Bookmark",
@@ -102,33 +126,137 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BuscarUsuarios.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\saave\\OneDrive\\Documentos\\Aorus\\Automotriz\\Automotriz\\BuscarUsuarios.Designer.cs",
+              "RelativeDocumentMoniker": "Automotriz\\BuscarUsuarios.Designer.cs",
+              "ToolTip": "C:\\Users\\saave\\OneDrive\\Documentos\\Aorus\\Automotriz\\Automotriz\\BuscarUsuarios.Designer.cs",
+              "RelativeToolTip": "Automotriz\\BuscarUsuarios.Designer.cs",
+              "ViewState": "AQIAAIoAAAAAAAAAAAAAAKcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T00:45:56.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Login.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\saave\\OneDrive\\Documentos\\Aorus\\Automotriz\\Automotriz\\Login.Designer.cs",
+              "RelativeDocumentMoniker": "Automotriz\\Login.Designer.cs",
+              "ToolTip": "C:\\Users\\saave\\OneDrive\\Documentos\\Aorus\\Automotriz\\Automotriz\\Login.Designer.cs",
+              "RelativeToolTip": "Automotriz\\Login.Designer.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAAAI8AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T00:11:35.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\saave\\OneDrive\\Documentos\\Aorus\\Automotriz\\Automotriz\\App.config",
+              "RelativeDocumentMoniker": "Automotriz\\App.config",
+              "ToolTip": "C:\\Users\\saave\\OneDrive\\Documentos\\Aorus\\Automotriz\\Automotriz\\App.config",
+              "RelativeToolTip": "Automotriz\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-19T22:33:22.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BuscarUsuarios.cs",
+              "DocumentMoniker": "C:\\Users\\saave\\OneDrive\\Documentos\\Aorus\\Automotriz\\Automotriz\\BuscarUsuarios.cs",
+              "RelativeDocumentMoniker": "Automotriz\\BuscarUsuarios.cs",
+              "ToolTip": "C:\\Users\\saave\\OneDrive\\Documentos\\Aorus\\Automotriz\\Automotriz\\BuscarUsuarios.cs",
+              "RelativeToolTip": "Automotriz\\BuscarUsuarios.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAiwF8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T14:17:51.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ManejadorUsuarios.cs",
+              "DocumentMoniker": "C:\\Users\\saave\\OneDrive\\Documentos\\Aorus\\Automotriz\\Manejador\\ManejadorUsuarios.cs",
+              "RelativeDocumentMoniker": "Manejador\\ManejadorUsuarios.cs",
+              "ToolTip": "C:\\Users\\saave\\OneDrive\\Documentos\\Aorus\\Automotriz\\Manejador\\ManejadorUsuarios.cs",
+              "RelativeToolTip": "Manejador\\ManejadorUsuarios.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwE4AAADPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T14:16:46.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\saave\\OneDrive\\Documentos\\Aorus\\Automotriz\\Automotriz\\Login.cs",
+              "RelativeDocumentMoniker": "Automotriz\\Login.cs",
+              "ToolTip": "C:\\Users\\saave\\OneDrive\\Documentos\\Aorus\\Automotriz\\Automotriz\\Login.cs",
+              "RelativeToolTip": "Automotriz\\Login.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAiwCoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T13:58:20.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "ManejadorLogin.cs",
+              "DocumentMoniker": "C:\\Users\\saave\\OneDrive\\Documentos\\Aorus\\Automotriz\\Manejador\\ManejadorLogin.cs",
+              "RelativeDocumentMoniker": "Manejador\\ManejadorLogin.cs",
+              "ToolTip": "C:\\Users\\saave\\OneDrive\\Documentos\\Aorus\\Automotriz\\Manejador\\ManejadorLogin.cs",
+              "RelativeToolTip": "Manejador\\ManejadorLogin.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T13:54:37.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\saave\\OneDrive\\Documentos\\Aorus\\Automotriz\\Automotriz\\Menu.cs",
+              "RelativeDocumentMoniker": "Automotriz\\Menu.cs",
+              "ToolTip": "C:\\Users\\saave\\OneDrive\\Documentos\\Aorus\\Automotriz\\Automotriz\\Menu.cs",
+              "RelativeToolTip": "Automotriz\\Menu.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwBIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T03:27:12.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "BuscarHerramientas.cs",
               "DocumentMoniker": "C:\\Users\\saave\\OneDrive\\Documentos\\Aorus\\Automotriz\\Automotriz\\BuscarHerramientas.cs",
               "RelativeDocumentMoniker": "Automotriz\\BuscarHerramientas.cs",
               "ToolTip": "C:\\Users\\saave\\OneDrive\\Documentos\\Aorus\\Automotriz\\Automotriz\\BuscarHerramientas.cs",
               "RelativeToolTip": "Automotriz\\BuscarHerramientas.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAMAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-19T06:23:02.804Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 18,
               "Title": "BuscarRefacciones.cs",
               "DocumentMoniker": "C:\\Users\\saave\\OneDrive\\Documentos\\Aorus\\Automotriz\\Automotriz\\BuscarRefacciones.cs",
               "RelativeDocumentMoniker": "Automotriz\\BuscarRefacciones.cs",
               "ToolTip": "C:\\Users\\saave\\OneDrive\\Documentos\\Aorus\\Automotriz\\Automotriz\\BuscarRefacciones.cs",
               "RelativeToolTip": "Automotriz\\BuscarRefacciones.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFAAAAAwAAAA",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwCcAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-19T06:11:06.659Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "ManejadorRefacciones.cs",
               "DocumentMoniker": "C:\\Users\\saave\\OneDrive\\Documentos\\Aorus\\Automotriz\\Manejador\\ManejadorRefacciones.cs",
               "RelativeDocumentMoniker": "Manejador\\ManejadorRefacciones.cs",
@@ -141,7 +269,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 22,
               "Title": "AgregarHerramientas.Designer.cs",
               "DocumentMoniker": "C:\\Users\\saave\\OneDrive\\Documentos\\Aorus\\Automotriz\\Automotriz\\AgregarHerramientas.Designer.cs",
               "RelativeDocumentMoniker": "Automotriz\\AgregarHerramientas.Designer.cs",
@@ -154,20 +282,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\saave\\OneDrive\\Documentos\\Aorus\\Automotriz\\Automotriz\\Program.cs",
               "RelativeDocumentMoniker": "Automotriz\\Program.cs",
               "ToolTip": "C:\\Users\\saave\\OneDrive\\Documentos\\Aorus\\Automotriz\\Automotriz\\Program.cs",
               "RelativeToolTip": "Automotriz\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAyAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-19T03:26:08.11Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 24,
               "Title": "Funciones.cs",
               "DocumentMoniker": "C:\\Users\\saave\\OneDrive\\Documentos\\Aorus\\Automotriz\\Acceso_datos\\Funciones.cs",
               "RelativeDocumentMoniker": "Acceso_datos\\Funciones.cs",
@@ -175,38 +303,37 @@
               "RelativeToolTip": "Acceso_datos\\Funciones.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T04:45:51.878Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-18T04:45:51.878Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "ManejadorTaller.cs",
               "DocumentMoniker": "C:\\Users\\saave\\OneDrive\\Documentos\\Aorus\\Automotriz\\Manejador\\ManejadorTaller.cs",
               "RelativeDocumentMoniker": "Manejador\\ManejadorTaller.cs",
               "ToolTip": "C:\\Users\\saave\\OneDrive\\Documentos\\Aorus\\Automotriz\\Manejador\\ManejadorTaller.cs",
               "RelativeToolTip": "Manejador\\ManejadorTaller.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAAJAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACMAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-18T04:45:39.437Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 21,
               "Title": "Permisos.cs",
               "DocumentMoniker": "C:\\Users\\saave\\OneDrive\\Documentos\\Aorus\\Automotriz\\Entidades\\Permisos.cs",
               "RelativeDocumentMoniker": "Entidades\\Permisos.cs",
               "ToolTip": "C:\\Users\\saave\\OneDrive\\Documentos\\Aorus\\Automotriz\\Entidades\\Permisos.cs",
               "RelativeToolTip": "Entidades\\Permisos.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEsAAAAJAAAA",
+              "ViewState": "AQIAACYAAAAAAAAAAAApwEkAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-18T04:45:14.428Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 8,
               "Title": "AgregarUsuarios.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\saave\\OneDrive\\Documentos\\Aorus\\Automotriz\\Automotriz\\AgregarUsuarios.cs",
               "RelativeDocumentMoniker": "Automotriz\\AgregarUsuarios.cs",
@@ -218,7 +345,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "AgregarRefacciones.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\saave\\OneDrive\\Documentos\\Aorus\\Automotriz\\Automotriz\\AgregarRefacciones.cs",
               "RelativeDocumentMoniker": "Automotriz\\AgregarRefacciones.cs",
@@ -230,7 +357,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 25,
               "Title": "BuscarRefacciones.Designer.cs",
               "DocumentMoniker": "C:\\Users\\saave\\OneDrive\\Documentos\\Aorus\\Automotriz\\Automotriz\\BuscarRefacciones.Designer.cs",
               "RelativeDocumentMoniker": "Automotriz\\BuscarRefacciones.Designer.cs",
@@ -243,7 +370,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "BuscarRefacciones.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\saave\\OneDrive\\Documentos\\Aorus\\Automotriz\\Automotriz\\BuscarRefacciones.cs",
               "RelativeDocumentMoniker": "Automotriz\\BuscarRefacciones.cs",
@@ -255,7 +382,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 13,
               "Title": "Login.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\saave\\OneDrive\\Documentos\\Aorus\\Automotriz\\Automotriz\\Login.cs",
               "RelativeDocumentMoniker": "Automotriz\\Login.cs",
@@ -279,7 +406,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 23,
               "Title": "BuscarHerramientas.Designer.cs",
               "DocumentMoniker": "C:\\Users\\saave\\OneDrive\\Documentos\\Aorus\\Automotriz\\Automotriz\\BuscarHerramientas.Designer.cs",
               "RelativeDocumentMoniker": "Automotriz\\BuscarHerramientas.Designer.cs",
@@ -292,7 +419,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "BuscarHerramientas.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\saave\\OneDrive\\Documentos\\Aorus\\Automotriz\\Automotriz\\BuscarHerramientas.cs",
               "RelativeDocumentMoniker": "Automotriz\\BuscarHerramientas.cs",
@@ -304,7 +431,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "BuscarUsuarios.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\saave\\OneDrive\\Documentos\\Aorus\\Automotriz\\Automotriz\\BuscarUsuarios.cs",
               "RelativeDocumentMoniker": "Automotriz\\BuscarUsuarios.cs",
@@ -316,20 +443,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Menu.cs",
-              "DocumentMoniker": "C:\\Users\\saave\\OneDrive\\Documentos\\Aorus\\Automotriz\\Automotriz\\Menu.cs",
-              "RelativeDocumentMoniker": "Automotriz\\Menu.cs",
-              "ToolTip": "C:\\Users\\saave\\OneDrive\\Documentos\\Aorus\\Automotriz\\Automotriz\\Menu.cs",
-              "RelativeToolTip": "Automotriz\\Menu.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T03:27:12.352Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 4,
               "Title": "Menu.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\saave\\OneDrive\\Documentos\\Aorus\\Automotriz\\Automotriz\\Menu.cs",
               "RelativeDocumentMoniker": "Automotriz\\Menu.cs",
@@ -338,40 +452,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-18T03:25:41.277Z",
               "EditorCaption": " [Dise\u00F1o]"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "Orientation": 0,
-      "VerticalTabListWidth": 256,
-      "FloatingWindowState": {
-        "Id": "244fcab4-1c6f-4900-a6f1-67d246b89ffc",
-        "Display": 0,
-        "X": -5,
-        "Y": 0,
-        "Width": 970,
-        "Height": 1085,
-        "WindowState": 2
-      },
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AgregarRefacciones.cs",
-              "DocumentMoniker": "C:\\Users\\saave\\OneDrive\\Documentos\\Aorus\\Automotriz\\Automotriz\\AgregarRefacciones.cs",
-              "RelativeDocumentMoniker": "Automotriz\\AgregarRefacciones.cs",
-              "ToolTip": "C:\\Users\\saave\\OneDrive\\Documentos\\Aorus\\Automotriz\\Automotriz\\AgregarRefacciones.cs",
-              "RelativeToolTip": "Automotriz\\AgregarRefacciones.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAA1wDYAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T04:04:54.668Z",
-              "EditorCaption": ""
             }
           ]
         }

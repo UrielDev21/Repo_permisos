@@ -38,6 +38,7 @@
             // 
             // menuStrip1
             // 
+            this.menuStrip1.BackColor = System.Drawing.Color.SlateGray;
             this.menuStrip1.Font = new System.Drawing.Font("Arial Rounded MT Bold", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.optBuscarUsuarios,
@@ -46,27 +47,33 @@
             this.optSalir});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(903, 30);
+            this.menuStrip1.Size = new System.Drawing.Size(1112, 30);
             this.menuStrip1.TabIndex = 0;
             this.menuStrip1.Text = "menuStrip1";
             // 
             // optBuscarUsuarios
             // 
+            this.optBuscarUsuarios.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.optBuscarUsuarios.Name = "optBuscarUsuarios";
             this.optBuscarUsuarios.Size = new System.Drawing.Size(169, 26);
             this.optBuscarUsuarios.Text = "Buscar usuarios";
+            this.optBuscarUsuarios.Click += new System.EventHandler(this.optBuscarUsuarios_Click);
             // 
             // optBuscarHerramientas
             // 
+            this.optBuscarHerramientas.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.optBuscarHerramientas.Name = "optBuscarHerramientas";
             this.optBuscarHerramientas.Size = new System.Drawing.Size(213, 26);
             this.optBuscarHerramientas.Text = "Buscar herramientas";
+            this.optBuscarHerramientas.Click += new System.EventHandler(this.optBuscarHerramientas_Click);
             // 
             // optBuscarRefacciones
             // 
+            this.optBuscarRefacciones.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.optBuscarRefacciones.Name = "optBuscarRefacciones";
             this.optBuscarRefacciones.Size = new System.Drawing.Size(198, 26);
             this.optBuscarRefacciones.Text = "Buscar refacciones";
+            this.optBuscarRefacciones.Click += new System.EventHandler(this.optBuscarRefacciones_Click);
             // 
             // optSalir
             // 
@@ -75,17 +82,19 @@
             this.optSalir.Name = "optSalir";
             this.optSalir.Size = new System.Drawing.Size(64, 26);
             this.optSalir.Text = "Salir";
+            this.optSalir.Click += new System.EventHandler(this.optSalir_Click);
             // 
             // Menu
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(903, 450);
+            this.ClientSize = new System.Drawing.Size(1112, 806);
             this.Controls.Add(this.menuStrip1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.IsMdiContainer = true;
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "Menu";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Menu";
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
